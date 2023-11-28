@@ -1,1 +1,18 @@
 # We will have key_value pairing in this file
+
+Generate a Data Management Plan (DMP) for a research project following the National Institutes of Health (NIH) guidelines. 
+Assume the project involves [briefly describe the research topic, e.g., a study on [specific disease or health-related issue]]. 
+The DMP should adhere to NIH requirements and cover key aspects such as data types, collection methods, documentation, storage, 
+security, sharing, long-term preservation, and compliance.
+
+---
+Include specific details such as the types of data to be collected, formats used, 
+instruments for data collection, metadata standards, storage locations, backup procedures, 
+data security measures, plans for data sharing, repositories for data sharing, long-term preservation strategies, 
+roles and responsibilities for data management, and compliance with ethical and legal considerations.
+
+---
+Ensure that the generated DMP is comprehensive and aligns with the latest NIH recommendations. 
+If there are any specific NIH updates or nuances, incorporate them into the plan.
+
+---
