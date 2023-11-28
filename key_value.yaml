@@ -1,5 +1,6 @@
 # We will have key_value pairing in this file
 
+# This is a prompt GPT made for itself in terms of DMP and NIH generation
 Generate a Data Management Plan (DMP) for a research project following the National Institutes of Health (NIH) guidelines. 
 Assume the project involves [briefly describe the research topic, e.g., a study on [specific disease or health-related issue]]. 
 The DMP should adhere to NIH requirements and cover key aspects such as data types, collection methods, documentation, storage, 
@@ -16,3 +17,30 @@ Ensure that the generated DMP is comprehensive and aligns with the latest NIH re
 If there are any specific NIH updates or nuances, incorporate them into the plan.
 
 ---
+
+Lead PI:
+  - Name: "Example Exam"
+  - Affiliation: "UCLA"
+  - Email: "Example@g.ucla.edu"
+  - ORCID: 9168707386
+
+Collaborators:
+  - Name: "Joe Bruin"
+  - Affiliation: UCLA
+  - Email: JoeBruin@ucla.edu
+  - OCRID: "OPTIONAL"
+
+Data Types:
+  - "Imaging"
+
+Related Tools:
+# Software that you may use, or other technologies
+  -
+
+
+
+
+
+Data Repository:
+  - "REPLACE WITH NAME/LINK TO THE REPOSITORY IF YOU HAVE ONE"
+
