@@ -18,6 +18,8 @@ If there are any specific NIH updates or nuances, incorporate them into the plan
 
 ---
 
+Title: Toxic Stress and Immune Response in Adolescents Vulnerable to HIV Infection
+
 Lead PI:
   - Name: "Example Exam"
   - Affiliation: "UCLA"
@@ -28,19 +30,20 @@ Collaborators:
   - Name: "Joe Bruin"
   - Affiliation: UCLA
   - Email: JoeBruin@ucla.edu
-  - OCRID: "OPTIONAL"
+  - OCRID: 5597255183
 
 Data Types:
-  - "Imaging"
+  - Store data according to the FAIR principles
 
 Related Tools:
 # Software that you may use, or other technologies
-  -
+  - R
 
+Data:
+  - " ~1500 participants in the ATN 149 study (NIH funded U19 grant:U19HD089886)"
 
-
-
+Data Preservation/Sharing:
+  - All spreadsheets containing the data will be shared alongside examples
 
 Data Repository:
-  - "REPLACE WITH NAME/LINK TO THE REPOSITORY IF YOU HAVE ONE"
-
+  - NIMH Data Archive
