@@ -15,4 +15,5 @@ The Output subheading contains the output that the LLM gave in response to your 
 ## Input Files:
 
 Copy the yaml file, fill in the required forms, if you don't have anything to fill then just take that portion out of the file. After filling in all the
-required details, copy and paste the file contents to its respective LLM.
+required details, copy and paste the file contents to its respective LLM. 
+***REMEMBER TO DELETE THE EXAMPLES BEFORE INPUTTING IT INTO THE LLM!!! IF YOU FORGET TO DO THIS YOU WILL CONFUSE IT!***
