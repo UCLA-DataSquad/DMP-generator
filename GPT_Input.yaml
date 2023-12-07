@@ -18,32 +18,53 @@ If there are any specific NIH updates or nuances, incorporate them into the plan
 
 ---
 
-Title: Toxic Stress and Immune Response in Adolescents Vulnerable to HIV Infection
+Title: # Your Title
 
-Lead PI:
-  - Name: "Example Exam"
-  - Affiliation: "UCLA"
-  - Email: "Example@g.ucla.edu"
-  - ORCID: 9168707386
+Lead PI: # Lead Principle Investigators
+  # Example: 
+  # - Name: "Example Exam"
+  # - Affiliation: "UCLA"
+  # - Email: "Example@g.ucla.edu"
+  # - ORCID: 9168707386
 
-Collaborators:
-  - Name: "Joe Bruin"
-  - Affiliation: UCLA
-  - Email: JoeBruin@ucla.edu
-  - OCRID: 5597255183
+Collaborators: # Collaborators
+  # Example:
+  # - Name: "Joe Bruin"
+  # - Affiliation: UCLA
+  # - Email: JoeBruin@ucla.edu
+  # - OCRID: 5597255183
 
 Data Types:
-  - Store data according to the FAIR principles
+  # Put all your data types here and how you expect to use them
+  # Example:
+  # .JPG, .PNG, .HEIC These files will be images corresponding their data sets and mapping of the data blogs 
 
 Related Tools:
-# Software that you may use, or other technologies
-  - R
+  # Software that you may use, or other technologies
+  # Example:
+  # We will be using Rstudio to process and visualize our data. We will also be storing our data in Microsoft Excel and/or Google Sheets
 
 Data:
-  - " ~1500 participants in the ATN 149 study (NIH funded U19 grant:U19HD089886)"
+  # What data you are collecting
+  # Example:
+  # ~1500 participants in the ATN 149 study (NIH funded U19 grant:U19HD089886), 500 Human participants
 
 Data Preservation/Sharing:
-  - All spreadsheets containing the data will be shared alongside examples
+  # How you will be preserving your data/ where can people get access to it, if people can get access to it 
+  # Example:
+  # All spreadsheets containing the data will be shared alongside examples to the public in the ...Repository
 
 Data Repository:
-  - NIMH Data Archive
+  # Repository in which your data is stored.
+  # Example:
+  # NIH Repository
+
+Data Standards:
+  # Standards that your data will follow
+  # Example:
+  # We will be following according to the FAIR principles for data preservation
+
+Data Oversight:
+  # How your data will be managed
+  # Example:
+  # We will leave it to the NIH
